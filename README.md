@@ -1,6 +1,6 @@
 # Visualization of an eddy dipole in the north of Hawaii
 
-## 1. CMEMS sea level anomaly
+## CMEMS sea level anomaly
 Satellite sea level anomaly data is used to identify this eddy dipole in the North Pacific Subtropical Gyre.
 ### Dataset download
 http://marine.copernicus.eu/services-portfolio/access-to-products
