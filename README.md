@@ -17,5 +17,5 @@ Trajectory of the identified eddy dipole
 https://www.aviso.altimetry.fr/en/data/products/value-added-products/global-mesoscale-eddy-trajectory-product.html
 
 <p align="middle">
-  <img src="https://github.com/MengyangZ/Eddy_dipole_ALOHA/blob/main/wholelife_track.png" width="400">
+  <img src="https://github.com/MengyangZ/Eddy_dipole_ALOHA/blob/main/wholelife_track.png" width="500">
 </p>
